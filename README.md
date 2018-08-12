@@ -1,2 +1,2 @@
 # cards
-forfun to lear go
+forfun to learn go
